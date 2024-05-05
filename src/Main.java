@@ -5,7 +5,7 @@ public class Main {
     }
 }
     class Knight {
-        private String name = "Sir Thanks-A-Lota";
+        private String name = "Sir Thanks-A-Lotaffffff";
         private String weapon = "Long Sword";
         private Boolean isGoingToSavePrincess = true;
 
